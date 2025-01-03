@@ -19,8 +19,29 @@
   
    "ImageTwo": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/myanmar_bill.jpg",
 
-  [
+   "files": [
 
+{
+
+         "name": "TH-FREE-1",
+
+         "url": "http://116.204.182.39:81/server/online_app.json"
+
+      },
+
+{
+
+         "name": "TH-FREE-2",
+
+         "url": "http://45.136.254.177:81/server/online_app.json"
+
+      },
+      
+{
+
+         "name": "TH-FREE-4",
+
+         "url": "http://45.91.134.203:81/server/online_app.json"
 
       }
 
