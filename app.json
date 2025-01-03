@@ -6,7 +6,7 @@
    "Image": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/myanmar_bill.jpg",
 
    //Badge Notification
-   "NotiBadge": 2,
+   "NotiBadge": 3,
    "ShowBadge": true,
 
    //Two CardView
